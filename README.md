@@ -12,7 +12,7 @@ TODO: Publish it and put the URL
 ## `rbs collection`
 
 * Pull Requested https://github.com/ruby/rbs/pull/589
-* Not yet merged
+* Merged (experimental)
 * Not yet released
 
 ## Steep integration of `rbs collection`
