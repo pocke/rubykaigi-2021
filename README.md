@@ -12,8 +12,8 @@ TODO: Publish it and put the URL
 ## `rbs collection`
 
 * Pull Requested https://github.com/ruby/rbs/pull/589
-* Merged (experimental)
-* Not yet released
+* Merged
+* Released as RBS v1.6.0 🎉
 
 ## Steep integration of `rbs collection`
 
@@ -27,7 +27,7 @@ TODO: Publish it and put the URL
 
 ## RBS parser with C
 
-* not yet
+* branch: https://github.com/ruby/rbs/tree/parser
 
 ## Bounded Type Parameters
 
