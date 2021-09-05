@@ -1,6 +1,8 @@
 The support repository of my talk at RubyKaigi Takeout 2021, The newsletter of RBS updates
 ==========
 
+https://rubykaigi.org/2021-takeout/presentations/p_ck_.html
+
 This is a support page. It contains updates between recording the talk and the event date, Sep 10th.
 
 I update this documentation until Sep 10th.
