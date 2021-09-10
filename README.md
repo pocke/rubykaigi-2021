@@ -9,7 +9,7 @@ I update this documentation until Sep 10th.
 
 ## Slide
 
-TODO: Publish it and put the URL
+https://docs.google.com/presentation/d/e/2PACX-1vREU6ZguqLxGk_k1l3zvKbRo_TbMTKN3yEgfzrjA85foVXrmeYvWnOTefsaBycsb9m6H924VsZw_YKt/pub?start=false&loop=false&delayms=3000
 
 ## `rbs collection`
 
