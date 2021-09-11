@@ -20,12 +20,12 @@ https://docs.google.com/presentation/d/e/2PACX-1vREU6ZguqLxGk_k1l3zvKbRo_TbMTKN3
 ## Steep integration of `rbs collection`
 
 * Pull Requested https://github.com/soutaro/steep/pull/420
-* Not yet merged
+* Merged (after RubyKaigi)
 * Not yet released
 
 ## TypeProf integration of `rbs collection`
 
-* not yet
+* Pull Requested https://github.com/ruby/typeprof/pull/53 (after RubyKaigi)
 
 ## RBS parser with C
 
