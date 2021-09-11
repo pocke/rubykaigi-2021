@@ -11,7 +11,7 @@ I update this documentation until Sep 10th.
 
 https://docs.google.com/presentation/d/e/2PACX-1vREU6ZguqLxGk_k1l3zvKbRo_TbMTKN3yEgfzrjA85foVXrmeYvWnOTefsaBycsb9m6H924VsZw_YKt/pub?start=false&loop=false&delayms=3000
 
-## Movie
+## Video
 
 https://youtu.be/AwuSHC6j-48 (Japanese)
 
